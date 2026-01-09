@@ -7,7 +7,7 @@ The project focuses on clean structure, template inheritance, and dynamic data r
 
 ## 📸 Screenshot
 
-![Homepage Screenshot](screenshots/homepage.png)
+![Homepage Screenshot](screenshots/Screenshot_1.png)
 
 ---
 
